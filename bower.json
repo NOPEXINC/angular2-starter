@@ -1,0 +1,26 @@
+{
+  "name": "angular2foundationk",
+  "description": "angular2 starter with zurb foundation",
+  "main": "app.js",
+  "authors": [
+    "Zachariah Ngonyani <zachariahn@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "angular2",
+    "es6"
+  ],
+  "homepage": "https://github.com/zechtz/angular2starter",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.3" 
+  }
+}
